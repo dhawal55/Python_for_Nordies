@@ -1,0 +1,12 @@
+1 - Download the installer @ http://www.python.org/getit/
+
+http://www.python.org/ftp/python/3.3.2/python-3.3.2-macosx10.6.dmg
+
+2- Read this blog:
+http://hints.binaryage.com/how-to-install-python-3-2-3-on-mac-os-x/
+
+3- Choose your IDE
+   Eclipse: http://www.eclipse.org/downloads/?osType=macosx
+   Spring Source Tool Suite + Pydev: http://spring.io/tools/sts   
+
+4- Pydev for Eclipse (plugin) update site: http://pydev.org/updates 
